@@ -1,3 +1,4 @@
+--upgrade pip
 Django==4.2.2
 django-adminlte-3==0.1.6
 django-allauth==0.59.0
@@ -13,8 +14,7 @@ djangorestframework==3.14.0
 python-bidi==0.4.2
 python-dateutil==2.8.2
 python3-openid==3.2.0
-
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six==1.16.0
 smmap==5.0.1
 social-auth-core==4.5.0
 soupsieve==2.5
